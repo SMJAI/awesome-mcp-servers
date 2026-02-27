@@ -1414,6 +1414,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [zinja-coder/apktool-mcp-server](https://github.com/zinja-coder/apktool-mcp-server) 🐍 🏠 - APKTool MCP Server is a MCP server for the Apk Tool to provide automation in reverse engineering of Android APKs.
 - [takleb3rry/zitadel-mcp](https://github.com/takleb3rry/zitadel-mcp) 📇 ☁️ 🏠 - MCP server for Zitadel identity management — manage users, projects, OIDC apps, roles, and service accounts through natural language.
 - [zinja-coder/jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) ☕ 🏠 - JADX-AI-MCP is a plugin and MCP Server for the JADX decompiler that integrates directly with Model Context Protocol (MCP) to provide live reverse engineering support with LLMs like Claude.
+- - [TrustLoop](https://github.com/SMJAI/TrustLoop) - 🛡️ MCP governance proxy — intercepts every tool call, enforces kill-switch policies, logs to a tamper-evident audit trail, and anchors hashes to blockchain for compliance.
   
 ### 🌐 <a name="social-media"></a>Social Media
 
